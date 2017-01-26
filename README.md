@@ -4,4 +4,4 @@
 ## About
 - Python2.7
 - コードのみ
-  - 必要なデータ，コーパスは[ここ](http://www.cl.ecei.tohoku.ac.jp/nlp100/data/)から
+ - 必要なデータ，コーパスは[ここ](http://www.cl.ecei.tohoku.ac.jp/nlp100/data/)から
