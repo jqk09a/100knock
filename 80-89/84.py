@@ -32,8 +32,8 @@ if __name__ == '__main__':
     #print 'X =\n', X
 
 """
-reina.a@gin:~/work/100$ python 84.py < enwiki-20150112-400-r100-10576.txt.clean.pretreatment.pair.tsv > enwiki-20150112-400-r100-10576.txt.clean.pretreatment.pair.tsv.ppmi
-reina.a@gin:~/work/100$ less enwiki-20150112-400-r100-10576.txt.clean.pretreatment.pair.tsv.ppmi        t       c       f(t,c)  f(t,*)  f(*,c)  PPMI
+$ python 84.py < enwiki-20150112-400-r100-10576.txt.clean.pretreatment.pair.tsv > enwiki-20150112-400-r100-10576.txt.clean.pretreatment.pair.tsv.ppmi
+$ less enwiki-20150112-400-r100-10576.txt.clean.pretreatment.pair.tsv.ppmi
         t       c       f(t,c)  f(t,*)  f(*,c)  PPMI
 0       of      the     243412  2006568 3693584 0.899665026929
 1       the     of      241867  3695421 2000191 0.894353609712
@@ -49,7 +49,7 @@ reina.a@gin:~/work/100$ less enwiki-20150112-400-r100-10576.txt.clean.pretreatme
 380066  with    chances 10      431520  605     1.12158169534
 380067  Getty   Paul    10      175     7507    8.75620904913
 
-reina.a@gin:~/work/100$ python 84.py < enwiki-20150112-400-r100-10576.txt.clean.pretreatment.pair.tsv
+$ python 84.py < enwiki-20150112-400-r100-10576.txt.clean.pretreatment.pair.tsv
 shape of X:  (29139, 28527)
 X =
 [[  0.           0.           0.         ...,   0.           0.           0.        ]
