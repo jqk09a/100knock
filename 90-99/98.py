@@ -24,10 +24,7 @@ def main():
 if __name__ == '__main__':
     main()
 
-"""
-import _tkinter # If this fails your Python may not be configured for Tk
-ImportError: No module named _tkinter
--> 諦めが早いから大人しく@localで
 
+"""
 dendrogram: http://www.cl.ecei.tohoku.ac.jp/~reina.a/nlp100/98.pdf
 """
